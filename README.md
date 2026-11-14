@@ -68,6 +68,10 @@ To simplify queue management by allowing customers to book appointments online, 
 ## 🎥 Project Demo Video
 
 [▶️ Click Here To Watch Demo Video](https://github.com/Nikhithagowda-web/SmartQueue-Real-Time-Queue-Management-and-Appointment-Booking-System/releases/download/v1.0.0/Screen.Recording.2026-11-13.094835.mp4)
+
+##🚀 Live Website
+https://smartqueue-frontend-u8zs.onrender.com
+
 ## 👩‍💻 Made By
 
 **Nikhitha Gowda**
